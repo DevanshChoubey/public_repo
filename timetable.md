@@ -1,4 +1,4 @@
-# Kendriya Vidyalaya School Timetable
+#  School Timetable
 
 ## Table of Contents
 - [Class Timetables](#class-timetables)
